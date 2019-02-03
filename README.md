@@ -1,4 +1,4 @@
-# Malign-or-Benign
+# Malignant-or-Benign
 
-Prediciting whether the tumour is malign or benign
+Prediciting whether the tumour is malignant or benign
 using RandomForestClassifier and SVM
